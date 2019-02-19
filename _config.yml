@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex Dean Cybulski/ Academicpages"
+title                    : "Alex Dean Cybulski"
 title_separator          : "-"
 name                     : &name "Alex Dean Cybulski"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Toronto, Ontario"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dwAY5v0AAAAJ&hl=en"
-  email            : "alexander.cybulski@utoronto.ca"
+  email            : "alexander.cybulski at utoronto dot ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,8 +100,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/alexander-dean-cybulski/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
