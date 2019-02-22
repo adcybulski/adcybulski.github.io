@@ -2,7 +2,7 @@
 title: "Playing Spy Games: a Surveillant Platform Study of Microsoft's Xbox 360"
 collection: publications
 permalink: /publication/2014-11-14-paper-title-number-1
-excerpt: 'This thesis, a platform study of Microsoft's videogame console the Xbox 360, demonstrates how one of the defining traits of the videogame platform's design and architecture is pervasive surveillance of its users.'
+excerpt: 'This thesis, a platform study of Microsoft's videogame console the Xbox 360.'
 date: 2014-11-14
 venue: 'Surveillance & Society'
 paperurl: 'http://adcybulski.github.io/files/Cybulski_Alexander_D_201411_MIS_thesis.pdf'
