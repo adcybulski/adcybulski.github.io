@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-11-01-playing-spy-games
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-11-01
-venue: 'School of Graduate Studies Master''s Theses'
+venue: ' University of Toronto - School of Graduate Studies Master''s Theses'
 paperurl: 'http://adcybulski.github.io/files/Cybulski_Alexander_D_201411_MIS_thesis.pdf'
 citation: 'Cybulski, You. (2014). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
