@@ -2,7 +2,7 @@
 title: "Enclosures  at  Play:  Surveillance  in  the  Code and Culture of Videogames"
 collection: publications
 permalink: /publication/2014-01-01-enclosures_at_play
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2014-10-01
 venue: 'Surveillance & Society'
 paperurl: 'http://academicpages.github.io/files/enclosures_at_play.pdf'
