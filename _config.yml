@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://adcybulski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adcybulski/adcybulski.github.io"
-teaser                   : "teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "alex.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Dean Cybulski, MA, MI"
-  avatar           : "teaser.jpg"
+  avatar           : "alex.jpg"
   bio              : "PhD Candidate at the University of Toronto"
   location         : "Toronto, Ontario"
   employer         :
