@@ -1,7 +1,7 @@
 ---
 title: "Playing Spy Games: a Surveillant Platform Study of Microsoft's Xbox 360"
 collection: publications
-permalink: /publication/2014-11-01-paper-title-number-1
+permalink: /publication/2014-11-01-playing-spy-games
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2014-11-01
 venue: 'Master’s thesis'
