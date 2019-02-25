@@ -14,8 +14,13 @@ Education
 * B.A. in English & History, Wilfrid Laurier University, 2007
 * M.A. in History, Wilfrid Laurier University, 2012
 * M.I. in Information Studies, University of Toronto, 2014
-* Ph.D in Innformation Studies, University of Toronto, 2020 (expected)
-
+  * Specialization in Identity, Privacy and Security (at IPSI)
+  * Thesis: Playing Spy Games - a Surveillant Platform Study of Microsoft’s Xbox 360
+  * Advisor: Dr. Leslie Regan Shade
+* Ph.D in Information Studies, University of Toronto, 2020 (expected)
+  * Thesis:  Sim-Cyberpunk - Serious Play, Hackers and Capture the Flag Competitions
+  * Advisor: Dr. Sara Grimes
+  
 Work experience
 ======
 * Summer 2015: Research Assistant
