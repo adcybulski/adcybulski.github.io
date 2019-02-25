@@ -11,13 +11,6 @@ A bit of a blurb about me should go here first. Do I write it in first, or third
 
 I'm a PhD candidate at the University of Toronto's Faculty of Information, located in Toronto Ontario. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
 
-
-Research Participants:
-======
-There is a chance you've found this page after I've requested your participation in my doctoral research project, or in the event that I followed you on social media. Thank you for your consideration. The methods utilized by this project have been reviewed and authorized by the University of Toronto's Social Sciences, Humanities and Education research ethics board (REB) until the end of 2019. 
-
-If you are considering providing consent to participate in my research or want to know more about what providing your consent means as a participant, please review this document. You are free to sign and return a physical or electronic copy should you wish to provide consent.
-
 Past Research:
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
