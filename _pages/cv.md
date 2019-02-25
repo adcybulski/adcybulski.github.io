@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English & History, Wilfrid Laurier University, 2007
+* M.A. in History, Wilfrid Laurier University, 2012
+* M.I. in Information Studies, University of Toronto, 2014
+* Ph.D in Innformation Studies, University of Toronto, 2020 (expected)
 
 Work experience
 ======
@@ -56,4 +57,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Faculty of History at Wilfrid Laurier
+Post-graduate Representative to the History Department in Committee, Wilfrid Laurier University, Sep 2011 – Apr 2012
+
+* Post-graduate Representative from the History Department to the Faculty of Arts, Wilfrid Laurier University, Sep 2011 – Apr 2012
+
