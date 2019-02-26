@@ -12,4 +12,4 @@ By analyzing the software used on Microsoft’s Xbox 360 to monitor and track pl
 
 [Download paper here](adcybulski.github.io/files/enclosures_at_play.pdf)
 
-Recommended citation: Cybulski, A,D. (2014). "Enclosures at Play: Surveillance in the Code and Culture of Videogames." <i>Journal 1</i>. 12(3).
+Recommended citation: Cybulski, A,D. (2014). "Enclosures at Play: Surveillance in the Code and Culture of Videogames." <i> Surveillance & Society</i>. 12(3).
