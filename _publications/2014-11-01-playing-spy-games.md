@@ -6,10 +6,10 @@ excerpt: ''
 date: 2014-11-01
 venue: ' University of Toronto - School of Graduate Studies - Master''s Theses'
 paperurl: 'http://adcybulski.github.io/files/Cybulski_Alexander_D_201411_MIS_thesis.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Cybulski, AD. (2014). &quot;Playing Spy Games: a Surveillant Platform Study of Microsoft's Xbox 360.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](files/Cybulski_Alexander_D_201411_MIS_thesis.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
