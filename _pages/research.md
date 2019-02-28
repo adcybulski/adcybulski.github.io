@@ -16,7 +16,7 @@ If you are considering participating in my doctoral research you will need to fi
 
 Providing verbal consent to act as a research participant is possible, should you have material concerns about signing the consent documents. Please note: should you wish to provide verbal consent you do not need to state your rationale to the researcher. 
 
-[The informed consent document is available for download here] (https://adcybulski.com/files/informedconsent.pdf)
+The informed consent document is available for download here [link][https://adcybulski.com/files/informedconsent.pdf]
 
 ## Further Questions:
 Further questions about your rights as a participant in the study can be directed to the University of Toronto Office of Research Ethics by phone (416) 946-3273 or by email at ethics.review@utoronto.ca. You can also contact my supervisor, Dr. Sara Grimes by e-mail at sara.grimes@utoronto.ca. 
