@@ -6,6 +6,7 @@ redirect_from:
   - /rd/
   - /research.html
 ---
+
 ## Informed Consent Documents:
 If you are considering participating in my doctoral research you will need to fill out an informed consent request document and return it to me. You may do so electronically via e-mail or by printing and signing the document.
 
