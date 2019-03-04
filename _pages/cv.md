@@ -21,27 +21,6 @@ Education
   * Thesis:  Sim-Cyberpunk - Serious Play, Hackers and Capture the Flag Competitions
   * Advisor: Dr. Sara Grimes
   
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -60,6 +39,31 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Work experience
+======
+* 2018: Consulting Director of IT Operations
+  * Great North Data
+  * Duties included: IT Risk Management, Enterprise Architecture, IT Implementation, Information Security Awareness, IT Security
+  * Supervisor: James Goodwin, CEO
+
+* 2017: Enteprise Risk Architect
+  * Toronto Hydro
+  * Duties included: IT Risk Management, Gap Analysis (NIST 800-53 & C2M2)
+  * Supervisor: Martin Loeffler, VP IT Operations
+  
+Skills
+======
+* Enteprise Architecture 
+  * Risk Analysis
+  * Gap Analaysis & Compliance
+  * IT Operations
+* Information Security Awareness
+  * Threat Analysis
+  * Phishing Assessment
+  * Client-service 
+* Policy Analysis
+  * Privacy Impact Assessments
+
 Service and leadership
 ======
 * Faculty of History at Wilfrid Laurier
