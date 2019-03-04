@@ -1,7 +1,7 @@
 ---
 title: "Viceland: Cyberwar"
 excerpt: "Short description of portfolio item number 1<br/>
-<iframe width="530" height="300" src="https://www.youtube.com/embed/BpyCl1Qm6Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+"<iframe width="530" height="300" src="https://www.youtube.com/embed/BpyCl1Qm6Xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 collection: portfolio
 ---
 
