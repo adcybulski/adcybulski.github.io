@@ -21,7 +21,7 @@ Education
   * Thesis:  Sim-Cyberpunk - Serious Play, Hackers and Capture the Flag Competitions
   * Advisor: Dr. Sara Grimes
   
-Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
