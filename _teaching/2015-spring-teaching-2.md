@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "CCT 110: Rhetoric and Media"
 collection: teaching
-type: "Workshop"
+type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Toronto - Erindale Campus, Communication, Institute of Communication, Culture, Information & Technology"
+date: 2019-01-01
+location: "Mississauga, ON"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Duties include: Grading, Tutorial Facilitation, Writing Support
