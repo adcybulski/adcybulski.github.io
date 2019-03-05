@@ -56,7 +56,7 @@ Work experience
   * Duties included: Information Security Awareness Program Development, Phishing Assessment, Client Consultaitons
   * Supervisor: Rajiv Kaushik, PMO Lead
   
-Honors and Awards
+Honors and awards
 ======
 * 2013: Privacy by Design Ambassador
   * Office of the Privacy Commissioner of Ontario
