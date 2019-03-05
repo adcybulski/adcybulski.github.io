@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toronto's Faculty of Information, located in Toronto Ontario. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
+My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toronto's Faculty of Information. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
 
 Past Research:
 ======
