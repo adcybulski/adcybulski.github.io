@@ -14,13 +14,14 @@ Past Research:
 ======
 
 In the past my research in the field of Information Studies has focused on:
-* the surveillance performed by home videogame consoles
+* (the surveillance performed by home videogame consoles)
 * E-sports, spectatorship and gender identity
 * Facial recognition and body tracking technologies
-* Privacy and disclosure policies among Canadian ISPs.
+* Privacy and disclosure policies among Canadian ISPs
+* Public knowledge of CCTV technology & policy
 
-In a past live I was an American historian who studies: 
-* the history of the evangelical movement 
+In a past life I was an American historian studying: 
+* the history of the evangelical movement
 * Comic books
 * Cities and their infrastructure
 
