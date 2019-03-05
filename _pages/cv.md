@@ -38,7 +38,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Work experience
 ======
 * 2018: Consulting Director of IT Operations
@@ -55,6 +55,11 @@ Work experience
   * University of Toronto - Office of Information Security & Enterprise Architecture / Project Management Office
   * Duties included: Information Security Awareness Program Development, Phishing Assessment, Client Consultaitons
   * Supervisor: Rajiv Kaushik, PMO Lead
+  
+Honors and Awareds
+======
+* 2013: Privacy by Design Ambassador
+  * Office of the Privacy Commissioner of Ontario
   
 Skills
 ======
