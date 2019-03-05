@@ -7,19 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A bit of a blurb about me should go here first. Do I write it in first, or third person?
 
-I'm a PhD candidate at the University of Toronto's Faculty of Information, located in Toronto Ontario. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
+My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toronto's Faculty of Information, located in Toronto Ontario. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
 
 Past Research:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
+In the past my research in the field of Information Studies has focused on the surveillance performed by home videogame consoles, e-sports, facial recognition and body tracking technologies, internet service provider policies.
+
+In a past live I was an American historian focused on the history of the evangelical movement, comic books, cities and their infrastructure.
 
 About this template:
 ------
