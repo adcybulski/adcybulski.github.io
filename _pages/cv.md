@@ -71,8 +71,9 @@ Skills
   * Threat Analysis
   * Phishing Assessment
   * Client-service 
-* Policy Analysis
+* Policy Analysis & Design
   * Privacy Impact Assessments
+  * Privacy by Design (PbD)
 
 Service and leadership
 ======
