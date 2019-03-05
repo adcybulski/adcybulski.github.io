@@ -13,9 +13,16 @@ My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toron
 Past Research:
 ======
 
-In the past my research in the field of Information Studies has focused on the surveillance performed by home videogame consoles, e-sports, facial recognition and body tracking technologies, internet service provider policies.
+In the past my research in the field of Information Studies has focused on:
+* the surveillance performed by home videogame consoles
+* E-sports, spectatorship and gender identity
+* Facial recognition and body tracking technologies
+* Privacy and disclosure policies among Canadian ISPs.
 
-In a past live I was an American historian focused on the history of the evangelical movement, comic books, cities and their infrastructure.
+In a past live I was an American historian who studies: 
+* the history of the evangelical movement 
+* Comic books
+* Cities and their infrastructure
 
 About this template:
 ------
