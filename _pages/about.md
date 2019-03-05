@@ -21,7 +21,7 @@ In the past my research in the field of Information Studies has focused on:
 * Public knowledge of CCTV technology & policy
 
 In a past life I was an American historian studying: 
-* the history of the Evangelical movement
+* The history of the Evangelical movement
 * Comic books
 * Cities and their infrastructure
 
