@@ -46,7 +46,7 @@ Work experience
   * Duties included: IT Risk Management, Enterprise Architecture, IT Implementation, Information Security Awareness, IT Security
   * Supervisor: James Goodwin, CEO
 
-* 2017: Enteprise Risk Architect
+* 2017: Enterprise Risk Architect
   * Toronto Hydro
   * Duties included: IT Risk Management, Gap Analysis (NIST 800-53 & C2M2)
   * Supervisor: Martin Loeffler, VP IT Operations
