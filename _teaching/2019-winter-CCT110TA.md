@@ -1,5 +1,5 @@
 ---
-title: "CCT 110: Rhetoric and Media"
+title: "CCT 110 - Rhetoric and Media"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-winter-CCT110TA.md
