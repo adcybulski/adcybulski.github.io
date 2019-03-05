@@ -1,5 +1,5 @@
 ---
-title: "Transparent Lives: Surveillance in Canada - Video Games ""See"" into Player's Living Rooms"
+title: "Transparent Lives: Surveillance in Canada - Video Games See into Player's Living Rooms"
 excerpt: "Passage Contribution <br/><img src='/images/transparentlives.jpg'>"
 collection: portfolio
 ---
