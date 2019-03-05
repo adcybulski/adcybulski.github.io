@@ -76,6 +76,10 @@ Skills
 
 Service and leadership
 ======
+* Social Media & Live Steam Manager, Pathways to Privacy 2014, hosted by the Canadian Civil Liberties Association, University of Toronto, March 2014
+
+* Colloquium Researcher, “Surveillance and the Participatory Condition,” McGill Participatory Media Colloquium, McGill University, Montreal Quebec, November 2013
+
 * Faculty of History at Wilfrid Laurier
 Post-graduate Representative to the History Department in Committee, Wilfrid Laurier University, Sep 2011 – Apr 2012
 
