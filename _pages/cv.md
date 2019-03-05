@@ -56,7 +56,7 @@ Work experience
   * Duties included: Information Security Awareness Program Development, Phishing Assessment, Client Consultaitons
   * Supervisor: Rajiv Kaushik, PMO Lead
   
-* 2015: Researcher
+* 2015: Researcher - Television Series
   * Viceland's Cyberwar
   * Duties included: Series development, Background research, Production, Technologist
   * Supervisor: Redacted, Executive Producer
