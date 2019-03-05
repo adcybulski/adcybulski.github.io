@@ -49,7 +49,7 @@ Work experience
 * 2017: Enterprise Risk Architect
   * Toronto Hydro
   * Duties included: IT Risk Management, Gap Analysis (NIST 800-53 & C2M2)
-  * Supervisor: Martin Loeffler, VP IT Operations
+  * Supervisor: Martin Loeffler, Director of Information Security & Enterprise Architecture
   
 * 2016: Information Security Awareness Officer / Risk Architect
   * University of Toronto - Office of Information Security & Enterprise Architecture / Project Management Office
