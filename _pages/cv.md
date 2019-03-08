@@ -61,6 +61,25 @@ Work experience
   * Duties included: Series development, Background research, Production, Technologist
   * Supervisor: Redacted, Executive Producer
   
+Research Experience
+======
+* 2015: Research Assisstant
+  * Playing at Making
+  * Duties included: Data Collection, Policy Analysis, Research Presentation, Event Planning
+  * Supervisor: Professor Sara Grimes, Primary Investigator
+  
+* 2014: Research Assistant
+  * IXMaps / Data Privacy Transparency of Canadian ISPs
+  * Duties included: Data Collection, Policy Analysis
+  * Supervisor: Professor Andrew Clement & Jonathan Obar 
+  (Research findings available here)[https://www.ixmaps.ca/docs/DataPrivacyTransparencyofCanadianISPs-2013.pdf]
+  
+* 2013: Research Assisstant
+  * “Who is Watching You? And Why?"
+  * Duties included: Data Collection, Policy Analysis, Research Presentation, Event Planning
+  * Supervisor: Professor Joseph Ferenbok / Dr. Brenda McPhail, Primary Investigators
+  * Research funded by: the Office of the Privacy Commissioner of Canada
+  
 Honors and awards
 ======
 * 2013: Privacy by Design Ambassador
