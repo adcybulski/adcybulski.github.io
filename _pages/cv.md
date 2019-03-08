@@ -72,13 +72,14 @@ Research Experience
   * IXMaps / Data Privacy Transparency of Canadian ISPs
   * Duties included: Data Collection, Policy Analysis
   * Supervisor: Professor Andrew Clement & Jonathan Obar 
-  * [Research findings available here](https://www.ixmaps.ca/docs/DataPrivacyTransparencyofCanadianISPs-2013.pdf)
+  * [Research findings: Keeping Internet Users in the Know, or in the Dark](https://www.ixmaps.ca/docs/DataPrivacyTransparencyofCanadianISPs-2013.pdf)
   
 * 2013: Research Assisstant
   * “Who is Watching You? And Why?"
   * Duties included: Data Collection, Policy Analysis, Research Presentation, Event Planning
   * Supervisor: Professor Joseph Ferenbok / Dr. Brenda McPhail, Primary Investigators
   * Research funded by: the Office of the Privacy Commissioner of Canada
+  * [Project description hosted by the OPC](https://www.priv.gc.ca/en/opc-actions-and-decisions/research/funding-for-privacy-research-and-knowledge-translation/completed-contributions-program-projects/2012-2013/p_201213_09/)
   
 Honors and awards
 ======
