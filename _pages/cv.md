@@ -72,7 +72,7 @@ Research Experience
   * IXMaps / Data Privacy Transparency of Canadian ISPs
   * Duties included: Data Collection, Policy Analysis
   * Supervisor: Professor Andrew Clement & Jonathan Obar 
-  (Research findings available here)[https://www.ixmaps.ca/docs/DataPrivacyTransparencyofCanadianISPs-2013.pdf]
+  * [Research findings available here](https://www.ixmaps.ca/docs/DataPrivacyTransparencyofCanadianISPs-2013.pdf)
   
 * 2013: Research Assisstant
   * “Who is Watching You? And Why?"
