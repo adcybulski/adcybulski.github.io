@@ -2,7 +2,7 @@
 title: "CCT 110 - Rhetoric and Media"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2019-winter-CCT110TA.md
+permalink: /teaching/2019-winter-CCT110TA
 venue: "University of Toronto - Erindale Campus, Institute of Communication, Culture, Information & Technology"
 date: 2019-01-01
 location: "Mississauga, ON"
