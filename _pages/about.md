@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toronto's Faculty of Information. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community. 
+My name is Alex Dean Cybulski and I'm a PhD candidate at the University of Toronto's Faculty of Information, where I study sociotechnical approaches to cybersecurity. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community, commonly known at Capture the Flag competitions, or, CTFs.
 
 Past Research:
 ======
@@ -19,11 +19,6 @@ In the past my research in the field of Information Studies has focused on:
 * Facial recognition and body tracking technologies
 * Privacy and disclosure policies among Canadian ISPs
 * Public knowledge of CCTV technology & policy
-
-In a past life I was an American historian studying: 
-* The history of the Evangelical movement
-* Comic books
-* Cities and their infrastructure
 
 About this template:
 ------
