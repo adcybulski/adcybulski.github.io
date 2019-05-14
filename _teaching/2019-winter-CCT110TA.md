@@ -8,3 +8,4 @@ date: 2019-01-01
 location: "Mississauga, ON"
 ---
 Duties include: Grading, Tutorial Facilitation, Writing Support
+Commendation: Recieved letter of excellence in teaching for achieving a 4.70/5 on student evaluations.
