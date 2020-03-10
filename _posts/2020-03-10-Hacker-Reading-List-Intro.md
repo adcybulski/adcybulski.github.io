@@ -9,7 +9,12 @@ tags:
 
 Introduciton to Hacker Culture
 ======
-For my own sake, I wanted to compile a short list of readings which I would consider to be useful for students studying hacker culture for the first time, or even just to share with another academic interested in how hackers are theorized.
+Hopefully this will be the first in a series of reading lists I'm compiling in March 2020 with the intention of documenting and expanding the bibliography of works included as part of hacker studies. Good literature on hackers streches from the 1980s to present day, but along the way I've noticed there are "waves" of hacker-interested academic work that is often unknown or excluded because it doesn't fit contemporary ontological and epistemological analyses of hackers.
+
+This first list is purely for my own sake: I wanted to compile a short list of readings which I would consider to be useful for students studying hacker culture for the first time, or even just to share with another academic interested in how hackers are theorized.
+
+Introductory Readings:
+----- 
 
 Coleman, G., & Golub, A. (2008). Hacker practice: Moral genres and the cultural articulation of liberalism. Anthropological Theory, 8(3), 255–277.
 
