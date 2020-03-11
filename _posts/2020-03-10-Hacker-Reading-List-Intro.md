@@ -18,7 +18,7 @@ In other cases, I'm hoping to document some papers are just hard or difficult to
 
 This first list is purely for my own sake: I wanted to compile a short list of readings which I would consider to be useful for students studying hacker culture for the first time, or even just to share with another academic interested in how hackers are theorized.
 
-Introductory Readings:
+Reading List:
 ----- 
 
 Coleman, G., & Golub, A. (2008). Hacker practice: Moral genres and the cultural articulation of liberalism. Anthropological Theory, 8(3), 255–277.
