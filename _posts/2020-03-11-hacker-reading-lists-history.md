@@ -1,5 +1,5 @@
 ---
-title: 'Hacker Studies Reading List: Hacker History'
+title: 'Hacker Culture Reaidng List: Hacker History'
 date: 2020-04-11
 permalink: /posts/2012/08/2020-03-11-hacker-reading-lists-history/
 tags:
@@ -29,7 +29,6 @@ Peterson, T. F. (2011). Nightwork: A history of hacks and pranks at MIT. MIT Pre
 Pettis, B. (2008, June 28). The Chaos Computer Club 1981-1984 » NYC Resistor. NYCResistor. https://www.nycresistor.com/2008/06/28/the-chaos-computer-club-1981-1984/
 
 Pettis, B. (2008, July 4). Cats, Dataloos, and a BTX Bank Robbery – The CCC in 1984 » NYC Resistor. NYCResistor. https://www.nycresistor.com/2008/07/04/cats-dataloos-and-a-btx-bank-robbery/
-
 
 Sterling, B. (1993). The hacker crackdown: Law and disorder on the electronic frontier. Bantam.
 
