@@ -25,7 +25,7 @@ Levy, S. (2010). Hackers (1st ed). O’Reilly Media.
 
 Menn, J. (2019). Cult of the Dead Cow: How the original hacking supergroup might just save the world. PUBLIC AFFAIRS.
 
-Middleton, B. (2017). A History of Cyber Security Attacks: 1980 to Present. Auerbach Publications. https://doi.org/10.1201/9781315155852
+Middleton, B. (2017). A History of Cyber Security Attacks: 1980 to Present. Auerbach Publications.
 
 Peterson, T. F. (2011). Nightwork: A history of hacks and pranks at MIT. MIT Press.
 
