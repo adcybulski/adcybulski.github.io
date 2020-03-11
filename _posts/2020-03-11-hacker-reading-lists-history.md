@@ -6,6 +6,7 @@ tags:
   - Reading lists
   - Hacker culture
   - History
+  - Hacker Studies
 ---
 
 Hacker Studies Reading List: Hacker History
