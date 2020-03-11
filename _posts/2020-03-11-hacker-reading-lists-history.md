@@ -13,7 +13,7 @@ Hacker Studies Reading List: Hacker History
 ====
 Like the word hacker, the history of hackers and hacking is pretty diffuse and it is not particularly helpful to try to establish a totalizing point of origin.
 
-As such, the history of hackers doesn't fit neatly into a single book when there are diffuse hacker cultures based in computing, cybercrime and counter-culture. While MIT is often understood as the origin point of much of what is thought of as hacker culture, it is worth de-centering the campus to identify alternative hacker cultures and use their histories to contrast values and material contributions to the idea of hackers broadly. 
+As such, the history of hackers doesn't fit neatly into a single book when there are diffuse hacker cultures based in computing, cybercrime and counter-culture. While MIT is often understood as the origin point of much of what is thought of as hacker culture, it is worth de-centering the campus to identify alternative hacker cultures and use their histories to contrast values and material contributions to the idea of hackers broadly.
 
 Reading List
 ----
