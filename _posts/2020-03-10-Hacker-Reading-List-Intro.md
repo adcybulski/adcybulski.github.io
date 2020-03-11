@@ -5,6 +5,7 @@ permalink: /posts/2020/03/Hacker-Reading-List-Intro/
 tags:
   - Reading Lists
   - Hacker Studies
+  - Hacker Culture
 ---
 
 Hacker Culture Reading Lists: Introduction to Hacker Culture
