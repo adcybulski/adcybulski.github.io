@@ -1,5 +1,5 @@
 ---
-title: 'Hacker Culture Reaidng List: Hacker History'
+title: 'Hacker Culture Reading Lists: Hacker History'
 date: 2020-04-11
 permalink: /posts/2012/08/2020-03-11-hacker-reading-lists-history/
 tags:
