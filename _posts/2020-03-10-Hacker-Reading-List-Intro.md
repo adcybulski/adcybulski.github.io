@@ -34,3 +34,5 @@ Levy, S. (2010). Hackers (1st ed). O’Reilly Media.
 Peterson, T. F. (2011). Nightwork: A history of hacks and pranks at MIT. MIT Press.
 
 Thomas, D. (2002). Hacker culture. University of Minnesota Press.
+
+Turkle, S. (1984). The Second Self: Computers and the Human Spirit (Twentieth Anniversary Edition). MIT Press.
