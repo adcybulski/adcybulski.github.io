@@ -10,7 +10,7 @@ tags:
   - Hacker Studies
 ---
 
-Hacker Studies Reading List: Hacktivism
+Hacker Studies Reading List: Hackers and Intellectual Property
 ====
 
 This bibliography should give you a good start in investingating near and dear to hackers fond of free and open source software, but also some insight into considerations around piracy and the work of pirates in their interventions against copyright and intellectual property.
