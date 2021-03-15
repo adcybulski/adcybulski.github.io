@@ -1,17 +1,21 @@
-  
-title	date	permalink	tags
-Hacker Reading Lists: Hacktivism
-2021-03-11
-/posts/2021/03/Hacker-Culture/
-Reading Lists
-Hacker Studies
-Hacker Culture
-Hacker Culture Reading Lists: Hacktivism
+---
+title: 'Hacker Culture Reading Lists: Hacker Hacktivism'
+date: 2021-03-15
+permalink: /posts/2021/03/2021-03-15-hacker-reading-lists-history/
+tags:
+  - Reading lists
+  - Hacker culture
+  - Hacktivism
+  - Hacker Studies
+---
+
+Hacker Studies Reading List: Hacktivism
+====
 
 This bibliography should give you a good start in investingating hacktivism and hacktivist practises, their politcs, etc.
 
-===
-
+Reading List
+----
 Coleman, G. (2014). Hacker, Hoaxer, Whistleblower, Spy. Verso.
 
 Gorham, A. E. (2020). Anonymous’s Glory. International Journal of Communication, 14, 3399–3417.
