@@ -18,6 +18,8 @@ Reading List
 ----
 Coleman, G. (2014). Hacker, Hoaxer, Whistleblower, Spy. Verso.
 
+Di Salvo, P. (2017). “Coder,” “Activist,” “Hacker”: Aaron Swartz in the Italian, UK, U.S., and Technology Press. International Journal of Communication, 11, 1149–1168.
+
 Gorham, A. E. (2020). Anonymous’s Glory. International Journal of Communication, 14, 3399–3417.
 
 Jordan, T. (2002). Activism! : direct action, hacktivism and the future of society. Reaktion Books.
