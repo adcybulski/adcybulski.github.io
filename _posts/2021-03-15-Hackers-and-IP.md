@@ -13,7 +13,7 @@ tags:
 Hacker Studies Reading List: Hacktivism
 ====
 
-This bibliography should give you a good start in investingating hacktivism and hacktivist practises, their politcs, etc.
+This bibliography should give you a good start in investingating near and dear to hackers fond of free and open source software, but also some insight into considerations around piracy and the work of pirates in their interventions against copyright and intellectual property.
 
 Reading List
 ----
