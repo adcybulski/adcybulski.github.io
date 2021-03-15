@@ -1,7 +1,7 @@
 ---
-title: 'Hacker Culture Reading Lists: Hacker Hacktivism'
+title: 'Hacker Culture Reading Lists: Hacktivism'
 date: 2021-03-15
-permalink: /posts/2021/03/2021-03-15-hacker-reading-lists-history/
+permalink: /posts/2021/03/2021-03-15-hacker-reading-lists-hacktivism/
 tags:
   - Reading lists
   - Hacker culture
