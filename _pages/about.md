@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at the University of Toronto's Faculty of Information, where I study sociotechnical approaches to cybersecurity. I am currently performing fieldwork for my doctoral dissertation on games played by hackers in the information security community, commonly known at Capture the Flag competitions, or CTFs.
+I'm a PhD candidate at the University of Toronto's Faculty of Information, where I study sociotechnical approaches to cybersecurity. I am currently in the midst of writing my doctoral dissertation on games played by hackers in the information security community, commonly known at Capture the Flag competitions, or CTFs.
 
 Past Research:
 ======
