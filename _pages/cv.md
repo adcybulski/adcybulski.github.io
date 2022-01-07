@@ -39,9 +39,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work experience
+Work Experience
 ======
-* 2018: Consulting Director of IT Operations
+* 2018: Information Technology Operations Consultant
   * Great North Data
   * Duties included: IT Risk Management, Enterprise Architecture, IT Implementation, Information Security Awareness, IT Security
   * Supervisor: James Goodwin, CEO
