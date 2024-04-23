@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Dean Cybulski, PhD <br> Human Risk and Information Security Specialist"
+title: "Alex Dean Cybulski, PhD <br> Human Risk and Information Security Culture Specialist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
