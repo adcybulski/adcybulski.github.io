@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a recent graduate from the University of Toronto's Faculty of Information, where I study sociotechnical approaches to cybersecurity. In my doctoral research I analyzed the ways in which hackers have developed expertise, technology and strategies for creating computer insecurity in the service of security. My disseration examines games played by hackers in the information security community, commonly known at Capture the Flag competitions, or CTFs.
+I'm a recent graduate from the University of Toronto's Faculty of Information, where I studied sociotechnical approaches to cybersecurity. In my doctoral research I analyzed the ways in which hackers have developed expertise, technology and strategies for creating computer insecurity in the service of security. My disseration examines games played by hackers in the information security community, commonly known at Capture the Flag competitions, or CTFs.
 
 Past Research:
 ======
