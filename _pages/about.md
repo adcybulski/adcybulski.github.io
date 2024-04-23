@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Dean Cybulski <br> PhD Candidate at the University of Toronto"
+title: "Alex Dean Cybulski, PhD <br> Human Risk and Information Security Specialist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
